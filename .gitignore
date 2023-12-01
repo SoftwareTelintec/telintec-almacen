@@ -1,0 +1,4 @@
+# ignore .venv fodler
+.venv
+
+*/.__pycache__
